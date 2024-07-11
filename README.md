@@ -33,7 +33,7 @@
 
 ---
 
-## 🏗️ Software Engineering Design Patterns
+## Software Engineering Design Patterns
 
 1. **[Strategy Patter](https://github.com/lloydestrada/StrategyPattern)**
 
@@ -47,19 +47,7 @@
 
 ---
 
-## 🌟 Other Accomplishments
-
-- **[Course Name](https://www.examplecourse.com)**
-  - **Description:** Completed with [Certification/Grade]
-  - **Date:** [Month, Year]
-
-- **[Course Name](https://www.examplecourse.com)**
-  - **Description:** Gained skills in [Specific Area]
-  - **Date:** [Month, Year]
-
----
-
-## 🛠️ Skill Set
+## Skill Set
 
 - **Data Visualization Tools:** Power BI Desktop, Tableau Public
 - **Programming Languages:** Java, Python
@@ -74,5 +62,5 @@ Feel free to reach out if you want to collaborate on projects, discuss tech topi
 
 ---
 
-Thanks for visiting my profile! 🚀
+Thanks for visiting my profile!
 
