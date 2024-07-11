@@ -1,7 +1,4 @@
 # Welcome to my GitHub Profile
-
-![Your Professional Photo](https://via.placeholder.com/150)
-
 ## Contact Details
 - **Email:** iamlloydestrada@gmail.com
 ---
