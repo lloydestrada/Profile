@@ -1,4 +1,6 @@
 # Welcome to my GitHub Profile
+![My Photo](https://github.com/lloydestrada/Profile/assets/142376663/c99e6f8e-967e-4acf-ab35-f5cf744b3d8b)
+
 ## Contact Details
 - **Email:** iamlloydestrada@gmail.com
 ---
