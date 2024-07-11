@@ -26,48 +26,24 @@
 
 ## 🌟 Tech Achievements
 
-### Top Power BI Projects
+### Power BI Projects
 
-1. **[Sales Performance Dashboard](https://github.com/yourusername/sales-performance-dashboard)**
-   - **Description:** An interactive dashboard showcasing sales performance metrics.
-   - **Key Features:** Dynamic visualizations, advanced DAX calculations, real-time data updates.
-
-2. **[Customer Insights Analytics](https://github.com/yourusername/customer-insights-analytics)**
-   - **Description:** A comprehensive report analyzing customer behavior and trends.
-   - **Key Features:** Customer segmentation, trend analysis, Power Query transformations.
-
-3. **[Financial Overview Report](https://github.com/yourusername/financial-overview-report)**
-   - **Description:** A detailed financial report for tracking and forecasting company finances.
-   - **Key Features:** Financial KPIs, forecasting models, budget vs. actual comparisons.
-
-### Notable Tableau Activities
-
-- **[Market Analysis Dashboard](https://public.tableau.com/views/market-analysis-dashboard/Overview)**
-  - **Description:** Visualizations for market trend analysis and competitor comparison.
+[Snack Report Using Dax](https://app.powerbi.com/view?r=eyJrIjoiOWM0OWQ5NWMtYWUwNi00ZmQ2LWJjNmItNmFlMjZlZWZmZGZjIiwidCI6IjUwNjRlYWU1LWFmMmEtNDU3Ni1iZGQ5LWE1MGE1ODQ4NDhhMSIsImMiOjEwfQ%3D%3D)**
+[Awesome Chocolate Dashboard Report](https://app.powerbi.com/view?r=eyJrIjoiOWM0OWQ5NWMtYWUwNi00ZmQ2LWJjNmItNmFlMjZlZWZmZGZjIiwidCI6IjUwNjRlYWU1LWFmMmEtNDU3Ni1iZGQ5LWE1MGE1ODQ4NDhhMSIsImMiOjEwfQ%3D%3D)**
 
 ---
 
 ## 🏗️ Software Engineering Design Patterns
 
-1. **[Repository Name](https://github.com/yourusername/repository-name)**
-   - **Description:** Implementation of [Design Pattern Name] with Java.
-   - **Key Concepts:** [Design Pattern Details]
+1. **[Strategy Patter](https://github.com/lloydestrada/StrategyPattern)**
 
-2. **[Repository Name](https://github.com/yourusername/repository-name)**
-   - **Description:** Demonstrates [Design Pattern Name] with real-world examples.
-   - **Key Concepts:** [Design Pattern Details]
+2. **[Builder Pattern](https://github.com/lloydestrada/BuilderPattern)**
 
-3. **[Repository Name](https://github.com/yourusername/repository-name)**
-   - **Description:** [Design Pattern Name] applied in a Java project.
-   - **Key Concepts:** [Design Pattern Details]
+3. **[State Pattern](https://github.com/lloydestrada/StatePattern)**
 
-4. **[Repository Name](https://github.com/yourusername/repository-name)**
-   - **Description:** [Design Pattern Name] with Python implementations.
-   - **Key Concepts:** [Design Pattern Details]
+4. **[Visitor Pattern](https://github.com/lloydestrada/VisitorPattern)**
 
-5. **[Repository Name](https://github.com/yourusername/repository-name)**
-   - **Description:** [Design Pattern Name] examples and explanations.
-   - **Key Concepts:** [Design Pattern Details]
+5. **[Solid Principles](https://github.com/lloydestrada/SolidPrinciples)**
 
 ---
 
