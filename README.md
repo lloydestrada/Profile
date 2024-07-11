@@ -1,4 +1,4 @@
-# Welcome to [Your Name]'s GitHub Profile! 👋
+# Welcome to my GitHub Profile
 
 ![Your Professional Photo](https://via.placeholder.com/150)
 
