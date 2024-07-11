@@ -9,8 +9,8 @@
 ## 🎓 Education
 
 - **[New Era University](https://neu.edu.ph/main/)**
-  - **Degree:** [Your Degree] in [Your Major]
-  - **Year of Graduation:** [Your Graduation Year]
+  - **Degree:** Bachelor of Science in Computer Science (BSCS)
+  - **Year of Graduation:** 2021-2025
 
 ---
 
