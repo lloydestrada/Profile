@@ -3,7 +3,7 @@
 ![Your Professional Photo](https://via.placeholder.com/150)
 
 ## Contact Details
-- **Email:** [iamlloydestrada@gmai.com]
+- **Email:** iamlloydestrada@gmail.com
 ---
 
 ## 🎓 Education
