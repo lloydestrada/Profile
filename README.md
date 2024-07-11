@@ -8,7 +8,7 @@
 
 ## 🎓 Education
 
-- **[Your University](https://www.universitywebsite.com)**
+- **[New Era University](https://neu.edu.ph/main/)**
   - **Degree:** [Your Degree] in [Your Major]
   - **Year of Graduation:** [Your Graduation Year]
 
