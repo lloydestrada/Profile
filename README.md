@@ -21,7 +21,7 @@
 - **[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/64780989359342bab223c81e8b4843ce)** - 2022
 ---
 
-## 🌟 Tech Achievements
+## Tech Achievements
 
 ### Power BI Projects
 
@@ -53,11 +53,8 @@
 
 ---
 
-## 📈 Let's Connect!
+## Connect With Me!
 
 Feel free to reach out if you want to collaborate on projects, discuss tech topics, or just connect. I'm always open to new opportunities and ideas!
 
 ---
-
-Thanks for visiting my profile!
-
