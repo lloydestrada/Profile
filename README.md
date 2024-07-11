@@ -6,7 +6,7 @@
 - **Email:** iamlloydestrada@gmail.com
 ---
 
-## 🎓 Education
+## Education
 
 - **[New Era University](https://neu.edu.ph/main/)**
   - **Degree:** Bachelor of Science in Computer Science (BSCS)
@@ -14,14 +14,13 @@
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
-- **[Certification Name](https://www.coursera.org/learn/certification-link)** – [Certification Body]
+- **[Artificial Intelligence Fundamentals](https://www.credly.com/earner/earned/badge/6a4accd2-9a08-4332-a024-410dd75d3633)** – 2024
   - **Date:** [Month, Year]
-- **[Certification Name](https://www.udemy.com/course/certification-link)** – [Certification Body]
+- **[Introduction to Data Science](https://www.credly.com/badges/4d932d69-5ac6-4629-a134-67b6c0ee8ade)** – 2024
   - **Date:** [Month, Year]
-- **[Certification Name](https://www.edx.org/course/certification-link)** – [Certification Body]
-  - **Date:** [Month, Year]
+- **[Data Analytics Essentials](https://www.credly.com/badges/93c63320-b296-41ce-8644-f0b1fb86cd28)** – 2023
 
 ---
 
