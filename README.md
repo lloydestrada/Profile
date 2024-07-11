@@ -3,10 +3,7 @@
 ![Your Professional Photo](https://via.placeholder.com/150)
 
 ## Contact Details
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Website:** [yourwebsite.com](https://yourwebsite.com) *(if applicable)*
-
+- **Email:** [iamlloydestrada@gmai.com](mailto:iamlloydestrada@gmail.com)
 ---
 
 ## 🎓 Education
