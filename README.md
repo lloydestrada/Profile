@@ -34,22 +34,18 @@
 
 ## Software Engineering Design Patterns
 
-1. **[Strategy Patter](https://github.com/lloydestrada/StrategyPattern)**
+1. **[Behavioral Design Pattern](https://github.com/lloydestrada/Java-Design-Patterns/tree/main/Behavioral%20Design%20Pattern)**
 
-2. **[Builder Pattern](https://github.com/lloydestrada/BuilderPattern)**
+2. **[Creational Design Pattern](https://github.com/lloydestrada/Java-Design-Patterns/tree/main/Creational%20Design%20Pattern)**
 
-3. **[State Pattern](https://github.com/lloydestrada/StatePattern)**
-
-4. **[Visitor Pattern](https://github.com/lloydestrada/VisitorPattern)**
-
-5. **[Solid Principles](https://github.com/lloydestrada/SolidPrinciples)**
+3. **[Structural Design Pattern](https://github.com/lloydestrada/Java-Design-Patterns/tree/main/Structural%20Design%20Pattern)**
 
 ---
 
 ## Skill Set
 
 - **Data Visualization Tools:** Power BI Desktop, Tableau Public
-- **Programming Languages:** Java, Python
+- **Programming Languages:** Java, Python, C#
 - **DBMS:** DB2
 - **Dev Tools:** JasperSoft Studio, Lucidchart, Eclipse, etc.
 
