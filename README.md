@@ -45,7 +45,7 @@
 ## Skill Set
 
 - **Data Visualization Tools:** Power BI Desktop, Tableau Public
-- **Programming Languages:** Java, Python, C#
+- **Programming Languages:** Java, Python, C#, Javascript
 - **DBMS:** DB2
 - **Dev Tools:** JasperSoft Studio, Lucidchart, Eclipse, etc.
 
